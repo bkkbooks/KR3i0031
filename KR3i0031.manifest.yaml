@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR3i0031_000.yaml, hash: 'sha256:1c70ff63c0973efbaeac3011c7e0e63f176f8213df770a24ef87ff92debaed4f'}
   - {seq: 1, filename: KR3i0031_001.yaml, hash: 'sha256:c3cd73d744d30eb8a6083291721f49f8a8bd0fe569c827cf7725238cb4dd0730'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3i0031_000.markers.yaml, hash: 'sha256:674ccb7e3483da90eca694473172eaf78f0122bdf1d2966a083883d83aacc36e'}
-  - {seq: 1, role: markers, filename: assets/KR3i0031_001.markers.yaml, hash: 'sha256:322bc6458494cf236e3b702a85106120b2e36fc57a94e0354af5ff043946cadd'}
+  - {seq: 0, role: markers, filename: assets/KR3i0031_000.markers.yaml, hash: 'sha256:e344a3cc1775e063456f426a06ee29676f29502d81b62ccdd1b2c1530b916548'}
+  - {seq: 1, role: markers, filename: assets/KR3i0031_001.markers.yaml, hash: 'sha256:36157fa4d2129846ae5f9e79afa089d9764a83b15c37da6751a425a9d58e0f21'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 劉氏菊譜
   type: section
   level: 1
-hash: sha256:15039c40e9a3cd412e1dc3977725c1475f49f5ca1f38f706e00c589ca03ec981
+hash: sha256:73d268003357b769feab60a348c8fc4176448a98f828e211f6801ebedb62a583
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
